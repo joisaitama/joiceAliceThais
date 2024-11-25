@@ -4,7 +4,7 @@
    left: 5vw;
    width: 90vw;
    height: 40vw;
-   background-image: url("./imagens/background.png");
+   background-image: url("./img/background.png");
    background-size: cover; /* Certifica que a imagem cobre todo o fundo */
    overflow: hidden; 
 
@@ -16,7 +16,7 @@
    left: 35vw;
    width: 5vw;
    height: 5vw;
-   background-image: url("./imagens/fantasma.png");
+   background-image: url("./img/fantasma.png");
    background-size: cover; 
    overflow: hidden; 
 }
@@ -41,7 +41,7 @@
    top: 34vw;
    width: 2vw;
    height: 2vw;
-   background-image: url("./imagens/bola_de_fogo.png");
+   background-image: url("./img/bola_de_fogo.png");
    background-size: cover; 
    overflow: hidden; 
 
